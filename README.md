@@ -31,7 +31,6 @@ Si quieres contribuir al desarrollo de la página web de Serenos Interiorismo, s
 Si tienes alguna pregunta o necesitas más información, puedes contactar al equipo de Serenos Interiorismo a través de los siguientes canales:
 
 - Página web: [www.serenosinteriorismo.com](https://www.serenosinteriorismo.com)
-- Correo electrónico: info@serenosinteriorismo.com
-- Teléfono: +XX XXX XX XX XX
+- Correo electrónico: serenosinteriorismo@gmail.com
 
 ¡Gracias por tu interés en nuestro repositorio y página web!

@@ -32,5 +32,6 @@ Si tienes alguna pregunta o necesitas más información, puedes contactar al equ
 
 - Página web: [www.serenosinteriorismo.com](https://www.serenosinteriorismo.com)
 - Correo electrónico: serenosinteriorismo@gmail.com
+- Tienda online: https://inse20240207121734.mercadoshops.com.mx/
 
 ¡Gracias por tu interés en nuestro repositorio y página web!
